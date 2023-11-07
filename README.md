@@ -34,7 +34,6 @@ In this project, we'll build a REST API using Spring Boot. You can also create a
 
 ## Project Structure
 
-![Project Structure](/restful-web-services/images/eclipse file structure.png)
 
 Inside `src/main/java/com.basheer.rest.webservices.restfulwebservices`, you will see the project's main Java file (`RestfulWebServicesApplication.java`). Run this Java file.
 
