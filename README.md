@@ -118,4 +118,3 @@ public HelloWorldBean helloWorldPathVariable(@PathVariable String name) {
 Access the API by typing [http://localhost:8080/hello-world/path-variable/Basheer](http://localhost:8080/hello-world/path-variable/Basheer) in your browser to get a JSON response.
 
 This is a basic introduction to how APIs work.
-```
